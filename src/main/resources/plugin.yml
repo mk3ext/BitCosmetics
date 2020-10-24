@@ -1,0 +1,8 @@
+name: BitCosmetics
+version: ${project.version}
+main: me.github.wert.bitcosmetics.BitCosmetics
+authors: [mk3ext]
+api-version: 1.15
+commands:
+  test:
+    description: test command
